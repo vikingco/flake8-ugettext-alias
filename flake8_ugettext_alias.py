@@ -3,7 +3,7 @@ import tokenize
 
 from sys import stdin
 
-__version__ = '1.0'
+__version__ = '1.1'
 
 UGETTEXT_ALIAS_ERROR_CODE = 'T006'
 UGETTEXT_ALIAS_ERROR_MESSAGE = 'import with alias _ found'
